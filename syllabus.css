@@ -1,0 +1,98 @@
+*{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.header{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #abb8c3;
+   
+   
+}
+.phone{
+    display: flex;
+    align-items: center;
+}
+.header-content{
+    display: flex;
+    align-items: center;
+
+}
+#phoneicon{
+    margin-left: 120px;
+    padding-left: 20px;
+}
+.phonenumber{
+    padding-left: 10px;
+   
+}
+.header-content{
+    padding-left: 700px;
+}
+.header-icons{
+    padding-left: 20px;
+
+}
+.header-icons a i{
+    padding-left: 35px;
+    font-size: 20px;
+}
+.nav{
+    height: 90px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+}
+.menu-bar{
+    text-align: center;
+    margin-left: 60px;
+}
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+}
+.menu-bar ul li a{
+    padding-left: 60px;
+    font-size: 17px;
+    font-weight: 500;
+    color: black;
+    transition: all 0.3s;
+}
+.menu-bar ul li a:hover{
+    color: #02f161;
+}
+.dropdown-menu{
+    display: none;
+}
+.menu-bar ul li:hover .dropdown-menu{
+   display: block;
+   position: absolute;
+   background-color: #fff;
+}
+.menu-bar ul li:hover .dropdown-menu ul{
+    display: block;
+    margin-top: 35px;
+}
+.menu-bar ul li:hover .dropdown-menu ul li{
+    width: 280px;
+    padding: 10px;
+    background: transparent;
+    text-align: left;
+}
+.try{
+    height: 40px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-left: 50px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.try:hover{
+    background-color:#0170b9;
+}

@@ -1,0 +1,71 @@
+.nowmore{
+    height: 450px;
+    width: 500px;
+    margin-top: 30px;
+}
+.now-h1{
+    width: 500px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 150px;
+    font-size: 25px;
+    color: #252B33;
+}
+.now-content{
+    width: 542px;
+    height: 20px;
+    margin-top: 90px;
+    margin-left: 150px;
+    font-size: 17px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.now-h4{
+    width: 542px;
+    margin-top: 20px;
+    margin-left: 150px;
+    font-size: 17px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.now-h5{
+    width: 542px;
+    margin-top: 20px;
+    margin-left: 150px;
+    font-size: 17px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.now-h6{
+    width: 542px;
+    margin-top: 20px;
+    margin-left: 150px;
+    font-size: 17px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.register{
+    height: 60px;
+    width: 250px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#02f161;
+    color: #fff;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.register a{
+    color: #fff;
+    font-size: 20px;
+}
+.now1{
+    display: flex;
+}
+.now-image{
+    margin-left: 300px;
+    margin-top: 50px;
+}

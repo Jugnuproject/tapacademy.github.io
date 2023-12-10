@@ -1,0 +1,30 @@
+.blog1{
+    margin-top: 50px;
+    padding-top: 20px;
+    text-align: center;
+    width: 100%;
+    color: black;
+}
+.blog1 h2{ 
+    color: #053e56;
+    font-size: 30px;
+}
+.blog1 p{
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 150px;
+    color: #4b4f58;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.blog2{
+    display: flex;
+    justify-content: center;
+}
+.blog2 img{
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.blog{
+    background-color: #f2f2f2;
+}
